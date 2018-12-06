@@ -1,0 +1,18 @@
+.creator-panel{
+    margin: 10px auto;
+    background-color: #5A6268;
+    color: #FDFDFD;
+}
+.note-creator input{
+    width: 80%;
+    margin: 10px 0;
+    font-size: smaller;
+}
+.creator-panel h6{
+    padding-top: 4px;
+}
+.creator-btn-add{
+    padding: 4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

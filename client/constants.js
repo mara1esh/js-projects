@@ -1,0 +1,7 @@
+export const AXIOS_NOTES_START = "AXIOS_NOTES_START";
+export const AXIOS_NOTES_SUCCESS = "AXIOS_NOTES_SUCCESS";
+export const AXIOS_NOTES_FAIL = "AXIOS_NOTES_FAIL";
+
+export const REMOVE_NOTE = "REMOVE_NOTE";
+
+export const ADD_TO_NOTES = "ADD_TO_NOTES";
